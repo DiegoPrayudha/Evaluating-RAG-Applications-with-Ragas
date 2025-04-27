@@ -41,4 +41,4 @@ The evaluation results provide insights into the performance of the RAG pipeline
 ## Source
 For more detailed information, please refer to my article on Medium: [Evaluating Retrieval-Augmented Generation (RAG) Applications with Ragas](https://medium.com/@diegoprayudha1/evaluating-retrieval-augmented-generation-rag-applications-with-ragas-4ae2bb92bd27).
 
-Additionally, you can find the official Ragas documentation here: [Ragas Documentation](https://github.com/yourusername/ragas) (replace with the actual link to the Ragas documentation).
+Additionally, you can find the official Ragas documentation here: [Ragas Documentation](https://docs.ragas.io/en/stable/)
