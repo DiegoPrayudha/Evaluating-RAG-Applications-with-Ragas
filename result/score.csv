@@ -1,0 +1,6 @@
+user_input,retrieved_contexts,response,reference,context_precision,context_recall,faithfulness,answer_relevancy
+When was Soekarno born?,"['Soekarno, the first President of Indonesia, was born on June 6, 1901, in Surabaya.']","Soekarno was born on June 6, 1901.","June 6, 1901",,1.0,1.0,0.9999999999999298
+What is Pancasila?,"['Pancasila is the philosophical foundation of the Indonesian state, consisting of five principles introduced by Sukarno in 1945.']",Pancasila is the foundation of Indonesia.,The philosophical foundation of the Indonesian state consisting of five principles.,,,1.0,0.20075949396868112
+Where is Mount Bromo located?,"['Mount Bromo is an active volcano situated in East Java, Indonesia, and is part of the Tengger massif.']","Mount Bromo is located in East Java, Indonesia.","East Java, Indonesia",,1.0,1.0,0.9999999999999553
+When did Indonesia gain independence?,"['Indonesia proclaimed its independence from Dutch colonial rule on August 17, 1945, following the end of World War II.']",Indonesia declared independence in 1945.,"August 17, 1945",,1.0,1.0,0.909318882117237
+What is the capital city of Indonesia?,"['Jakarta is the current capital city of Indonesia, located on the northwest coast of the island of Java.']",Jakarta is the capital city of Indonesia.,Jakarta,,0.5,1.0,0.9999999999999424
