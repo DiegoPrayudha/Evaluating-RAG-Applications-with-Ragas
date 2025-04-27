@@ -2,3 +2,4 @@ ragas
 langchain
 langchian-groq
 rapidfuzz
+datasets
